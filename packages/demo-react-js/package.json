@@ -1,6 +1,6 @@
 {
   "name": "demo-react-js",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "private": true,
   "devDependencies": {
     "babel-eslint": "^7.1.1",
